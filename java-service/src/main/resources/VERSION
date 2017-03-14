@@ -1,3 +1,0 @@
-buildPlan=${buildPlan}
-buildNumber=${buildNumber}
-version=${project.version}
